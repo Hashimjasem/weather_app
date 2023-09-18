@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  background:
+    url(./images/above-clouds-fiordland-national-park-sunny-day-3840x2560-1014.jpg) no-repeat center center/cover;
+
+}
+
+
+.container {
+  background-color: #1e190a33;
+  max-width: 40rem;
+  margin: auto;
+
+}
